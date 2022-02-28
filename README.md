@@ -1,2 +1,4 @@
 # Realtime-Chatroom
-Realtime Chat Room with Firebase
+Realtime Chat Room using Firebase
+
+Chat room app with multiple chat rooms and usernames. 
